@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>631ECC2E-1FF5-4E9B-B409-6D73CE463ECB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>visualizerboom</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FB23DF9BDD9DA66B4E2ACA11D24433D27652AAEA</key>
+		<string>https://github.com/sssomboo/CC_lab.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>visualizerboom/visualizerboom.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FB23DF9BDD9DA66B4E2ACA11D24433D27652AAEA</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sssomboo/CC_lab.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FB23DF9BDD9DA66B4E2ACA11D24433D27652AAEA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FB23DF9BDD9DA66B4E2ACA11D24433D27652AAEA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CC_lab</string>
+		</dict>
+	</array>
+</dict>
+</plist>
